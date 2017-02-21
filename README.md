@@ -1,0 +1,1 @@
+# pratica_2_q_1_par_impar_cs50
